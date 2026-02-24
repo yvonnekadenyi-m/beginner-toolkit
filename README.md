@@ -16,3 +16,10 @@ Create a beginner-friendly Go command-line program that welcomes Moringa AI grad
 - Often used for web servers, CLI tools, and AI/ML prototypes  
 - Real-world example: Go powers part of **Docker** and **Kubernetes** backend systems
 
+## System Requirements
+
+- **OS:** Linux, Mac, Windows  
+- **Tools/Editors:** VS Code, Terminal  
+- **Go Version:** 1.22 or newer  
+- **Optional:** Git for version control
+
