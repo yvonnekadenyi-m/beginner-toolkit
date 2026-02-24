@@ -23,3 +23,11 @@ Create a beginner-friendly Go command-line program that welcomes Moringa AI grad
 - **Go Version:** 1.22 or newer  
 - **Optional:** Git for version control
 
+## Installation & Setup
+
+1. **Install Go (Linux example):**
+```bash
+sudo apt update
+sudo apt install golang-go
+go version
+
